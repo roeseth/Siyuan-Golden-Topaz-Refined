@@ -12,3 +12,6 @@ Serif
 Sans Serif
 - https://github.com/adobe-fonts/source-han-sans
 - https://github.com/adobe-fonts/source-sans
+
+## Preview
+![Preview](https://github.com/roeseth/Siyuan-Golden-Topaz-Refined/blob/main/preview.png)
