@@ -13,5 +13,6 @@ Sans Serif
 - https://github.com/adobe-fonts/source-han-sans
 - https://github.com/adobe-fonts/source-sans
 
+With the use of super block, it support psuedo admonition style blocks.
 ## Preview
 ![Preview](https://github.com/roeseth/Siyuan-Golden-Topaz-Refined/blob/main/preview.png)
